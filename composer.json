@@ -1,0 +1,14 @@
+{
+    "name": "deki/matrix",
+    "description": "This package used to calculate matrix.",
+    "type": "library",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "dekiakbar",
+            "email": "dekiakbar@linuxmail.org"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
