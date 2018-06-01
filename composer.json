@@ -9,7 +9,7 @@
             "email": "dekiakbar@linuxmail.org"
         }
     ],
-    "minimum-stability": "dev-master",
+    "minimum-stability": "dev",
     "require": {},
     "autoload": {
         "psr-4": {
