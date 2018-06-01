@@ -9,7 +9,6 @@
             "email": "dekiakbar@linuxmail.org"
         }
     ],
-    "minimum-stability": "beta",
     "require": {},
     "autoload": {
         "psr-4": {
