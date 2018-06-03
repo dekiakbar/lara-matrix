@@ -3,6 +3,19 @@
     "description": "This package used to calculate matrix.",
     "type": "library",
     "license": "mit",
+    "repositories": [
+    {
+        "type": "package",
+        "package": {
+          "name": "deki/matrx",
+          "version": "v1.0.0",
+          "source": {
+            "url": "dekiakbar@github.com:deki/matrix.git",
+            "type": "git"
+          }
+        }
+      }
+    ],
     "authors": [
         {
             "name": "dekiakbar",
