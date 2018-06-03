@@ -9,10 +9,12 @@
             "email": "dekiakbar@linuxmail.org"
         }
     ],
-    "require": {},
+    "require": {
+        "illuminate/support": "~5"
+    },
     "autoload": {
         "psr-4": {
-            "matrix\\": "src"
+            "Deki\\Matrix\\": "src/"
         }
     }
 }

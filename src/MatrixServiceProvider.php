@@ -3,7 +3,6 @@
 namespace Deki\Matrix;
 
 use Illuminate\Support\ServiceProvider;
-
 class MatrixServiceProvider extends ServiceProvider
 {
     /**
@@ -23,7 +22,8 @@ class MatrixServiceProvider extends ServiceProvider
      */
     public function register()
     {
-        include __DIR__.'/routes/web.php';
-        $this->app->make('Deki\Matrix\MatrixController');
+        $this->app->bind('deki-matrix', function() {
+            return new Matrix;
+        });
     }
 }
