@@ -1,4 +1,4 @@
-# Project Title
+# Laravel Matrix
 
 Laravel Matrix is A library that can used to calculation the matrix.
 
@@ -31,8 +31,8 @@ Just this, Now you can use this package.
 
 ## Built With
 
-* [Composer](https://getcomposer.org) - The web framework used
-* [PHP](http://php.net) - Dependency Management
+* [Composer](https://getcomposer.org) - Dependency Management
+* [PHP](http://php.net) - Programming Language
 
 
 ## Authors
