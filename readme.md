@@ -31,7 +31,7 @@ Just this, Now you can use this package.
 
 ## Built With
 
-* [Composer](https://composer.org) - The web framework used
+* [Composer](https://getcomposer.org) - The web framework used
 * [PHP](http://php.net) - Dependency Management
 
 
